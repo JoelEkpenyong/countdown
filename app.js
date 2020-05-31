@@ -1,5 +1,5 @@
 //sets the countdown date
-var countdownDate = new Date("May 23, 2020 18:10:00").getTime()
+var countdownDate = new Date("May 31, 2020 15:28:00").getTime()
 //shortcut to get elements 
 var el = function(element){
     if(element.charAt(0)==='#'){
